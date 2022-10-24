@@ -15,5 +15,9 @@ public class AppiumTest {
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");
+		System.out.println("macha");
+		System.out.println("epo");
+		System.out.println("vara");
+		System.out.println("pora");
 	}
 }
